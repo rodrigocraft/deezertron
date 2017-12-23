@@ -1,0 +1,28 @@
+{
+  "name": "deezertron",
+  "version": "1.0.0",
+  "description": "deezer player",
+  "main": "index.js",
+  "dependencies": {
+    "electron": "^1.7.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrigoec19/deezertron.git"
+  },
+  "keywords": [
+    "deezer",
+    "app"
+  ],
+  "author": "rodrigoec19",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/rodrigoec19/deezertron/issues"
+  },
+  "homepage": "https://github.com/rodrigoec19/deezertron#readme"
+}
