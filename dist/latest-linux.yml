@@ -1,0 +1,9 @@
+version: 0.0.1
+files:
+  - url: deezertron-0.0.1-x86_64.AppImage
+    sha512: NlEXYipoqywJr168fqyr5BzTGFppY6W99e1qIkwcjq4iVDCKTMlKpXfoNM7uKXX66HyJLlHwKmg+s7ew2st5NA==
+    size: 52053846
+    blockMapSize: 94362
+path: deezertron-0.0.1-x86_64.AppImage
+sha512: NlEXYipoqywJr168fqyr5BzTGFppY6W99e1qIkwcjq4iVDCKTMlKpXfoNM7uKXX66HyJLlHwKmg+s7ew2st5NA==
+releaseDate: '2017-12-26T21:45:05.136Z'

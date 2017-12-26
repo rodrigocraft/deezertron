@@ -10,9 +10,8 @@ app.on('ready', function () {
   var mainWindow = new BrowserWindow({
     width: 800,
     height: 600,
-    title: "Deezer Player",
-    icon:'./images/deezer-icon64.png',
-
+    title: "Deezer Player REC",
+    icon:'./build/icons/icon_32x32.png',
   });
 
   mainWindow.on('closed', ()=>{
@@ -114,5 +113,4 @@ if (process.platform === 'darwin') {
 
 const menu = Menu.buildFromTemplate(template)
 Menu.setApplicationMenu(menu)
-
 });
